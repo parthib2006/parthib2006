@@ -1,25 +1,46 @@
-<p align="center">
-  <img src="assets/banner.png" alt="Parthib Ghosh Banner" width="100%" />
-</p>
+<table width="100%">
+<tr>
 
-<h1 align="center">Hi 👋, I'm Parthib Ghosh</h1>
+<td align="left" valign="middle" width="24%">
 
-<h3 align="center">
-Cyber-Physical Systems Security • Digital Forensics • Applied Machine Learning
+<img src="img/parthib3.jpg" alt="Parthib Ghosh" width="240"/>
+
+</td>
+
+<td align="center" valign="middle" width="52%">
+
+<h1>Hi 👋 I'm Parthib Ghosh</h1>
+
+<h3>
+Researching Secure Cyber-Physical Systems,<br>
+Digital Forensics & AI-driven Cyber Defense
 </h3>
 
-<p align="center">
-Researching secure autonomous systems and AI-driven cyber defense.
+<p>
+<b>Creator of RoboIDS • CipherAI • XROS Labs</b>
 </p>
 
-<p align="center">
-<a href="https://readme-typing-svg.demolab.com">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1200&center=true&vCenter=true&width=700&lines=Cyber-Physical+Systems+Security;Digital+Forensics;ROS2+%7C+Secure+Robotics;AI-driven+Cyber+Defense;Applied+Machine+Learning" alt="Typing SVG"/>
-</a>
-</p>
+<br>
+
+<img
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1200&color=2F81F7&center=true&vCenter=true&width=620&lines=Cyber-Physical+Systems+Security;Digital+Forensics;Secure+Robotics+%7C+ROS2;AI-driven+Cyber+Defense;Applied+Machine+Learning;Cyber+Forensics+Research;Open+Source+Developer"
+alt="Typing SVG"/>
+
+</td>
+
+<td align="right" valign="middle" width="24%">
+
+<img src="img/xros_logo.jpg" alt="XROS Labs" width="210"/>
+
+</td>
+
+</tr>
+</table>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=parthib2006&label=Profile+Views&color=0e75b6&style=flat"/>
+
+<img src="https://komarev.com/ghpvc/?username=parthib2006&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views"/>
+
 </p>
 
 ---
@@ -48,19 +69,19 @@ Researching secure autonomous systems and AI-driven cyber defense.
 
 ---
 
-# 🚀 Featured Projects
+## 🔬 Featured Projects
 
-### 🛡️ Bhorosha
-AI-powered Rural Cyber Safety Platform for Bengali-speaking communities.
+🛡️ **Bhorosha**
+AI-powered Rural Cyber Safety Platform
 
-### 🤖 RoboIDS
-Dual-Layer Intelligent Intrusion Detection for ROS2 Robotic Systems.
+🤖 **RoboIDS**
+ROS2 Intrusion Detection Framework
 
-### 🔍 CipherAI
-Multi-Agent Digital Forensics & Incident Response Framework.
+🔍 **CipherAI**
+AI-assisted Digital Forensics
 
-### ☁️ Cloud IDS
-Semantic Command-Level Intrusion Detection for Multi-Agent Systems.
+🚁 **XROS Labs**
+Open Research in Secure Robotics
 
 ---
 
@@ -104,20 +125,24 @@ Semantic Command-Level Intrusion Detection for Multi-Agent Systems.
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=parthib2006&show_icons=true&theme=transparent"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthib2006&layout=compact&theme=transparent"/>
-
-</p>
-
-<p align="center">
-
 <img src="https://streak-stats.demolab.com?user=parthib2006&theme=transparent"/>
 
 </p>
 
 <p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=parthib2006&theme=github-compact&hide_border=true"/>
+</p>
 
-<img src="https://github-profile-trophy.vercel.app/?username=parthib2006&theme=flat&no-frame=true&margin-w=15"/>
+<p align="center">
+
+<img src="https://img.shields.io/badge/Cybersecurity-00599C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Open%20Source-181717?style=for-the-badge&logo=github"/>
 
 </p>
