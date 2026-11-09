@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="img/banner.png" alt="Banner" width="100%" style="border-radius: 8px;"/>
+  <img src="banner.jfif" alt="Banner" width="100%" style="border-radius: 8px;"/>
 </div>
 
 <br>
 
 <div align="center">
 
-<img src="img/parthib4.jpg" alt="Parthib Ghosh" width="160" style="border-radius: 50%; border: 2px solid #2F81F7;"/>
+<img src="parthib4.jpg" alt="Parthib Ghosh" width="160" style="border-radius: 50%; border: 2px solid #2F81F7;"/>
 
 # 👋 Hi, I'm Parthib Ghosh
 
@@ -34,7 +34,7 @@
 
 - 🔬 **Founder & Lead Researcher** at <b>XROS Labs</b>, exploring the intersection of Cyber-Physical Security, Digital Forensics, and Materials-Aware Reliability.
 - 🎓 Transitioned from a Diploma in **Computer Science & Technology** (APCRP ’26) into a B.Tech in **Ceramic Technology** (GCECT ’29) to bridge software systems with physical-layer hardware reliability (**BITS & ATOMS**).
-- 🔭 Currently building **Bhorosha** — an AI-powered multilingual cyber-safety and complaint-assistance platform.
+- 🔭 Currently building **Bhorosha**: an AI-powered multilingual cyber-safety and complaint-assistance platform.
 - 🌱 Exploring **ROS2 Middleware, Formal Methods, Discrete Mathematics, Functional Ceramics, and Sensor Reliability**.
 - 💬 Ask me about **Cybersecurity, ROS2, Digital Forensics, Python, FastAPI, React & Machine Learning**.
 
@@ -92,10 +92,6 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=parthib2006&theme=tokyonight&hide_border=true&date_format=j%20M%20[y]" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=parthib2006&theme=react-dark&hide_border=true&radius=8" alt="Activity Graph"/>
 </p>
 
 <p align="center">
