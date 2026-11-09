@@ -1,148 +1,107 @@
-<table width="100%">
-<tr>
-
-<td align="left" valign="middle" width="24%">
-
-<img src="img/parthib3.jpg" alt="Parthib Ghosh" width="240"/>
-
-</td>
-
-<td align="center" valign="middle" width="52%">
-
-<h1>Hi 👋 I'm Parthib Ghosh</h1>
-
-<h3>
-Researching Secure Cyber-Physical Systems,<br>
-Digital Forensics & AI-driven Cyber Defense
-</h3>
-
-<p>
-<b>Creator of RoboIDS • CipherAI • XROS Labs</b>
-</p>
+<div align="center">
+  <img src="img/banner.png" alt="Banner" width="100%" style="border-radius: 8px;"/>
+</div>
 
 <br>
 
-<img
-src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1200&color=2F81F7&center=true&vCenter=true&width=620&lines=Cyber-Physical+Systems+Security;Digital+Forensics;Secure+Robotics+%7C+ROS2;AI-driven+Cyber+Defense;Applied+Machine+Learning;Cyber+Forensics+Research;Open+Source+Developer"
-alt="Typing SVG"/>
+<div align="center">
 
-</td>
+<img src="img/parthib4.jpg" alt="Parthib Ghosh" width="160" style="border-radius: 50%; border: 2px solid #2F81F7;"/>
 
-<td align="right" valign="middle" width="24%">
+# 👋 Hi, I'm Parthib Ghosh
 
-<img src="img/xros_logo.jpg" alt="XROS Labs" width="210"/>
+### 🔬 Security Researcher | 🛡️ Cyber-Physical Systems & Forensics | ⚛️ Materials-Aware Reliability
 
-</td>
+<p>
+<b>Founder of XROS Labs • Creator of RoboIDS • CipherAI • Bhorosha</b>
+</p>
 
-</tr>
-</table>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&lines=Cyber-Physical+Systems+Security;Digital+Forensics+%26+DFIR;Secure+Robotics+%7C+ROS2;Functional+Ceramic+Materials+%26+Sensors;Applied+Machine+Learning;Open+Source+Research" alt="Typing SVG"/>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=parthib2006&label=Profile+Views&color=58A6FF&style=flat-square" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/parthib2006?color=238636&label=Followers&style=flat-square" alt="Followers"/>
+  <img src="https://img.shields.io/badge/PRs-Welcome-blue?style=flat-square" alt="PRs Welcome"/>
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=parthib2006&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</div>
 
+---
+
+## 👨‍💻 About Me
+
+<div align="justify">
+
+- 🔬 **Founder & Lead Researcher** at <b>XROS Labs</b>, exploring the intersection of Cyber-Physical Security, Digital Forensics, and Materials-Aware Reliability.
+- 🎓 Transitioned from a Diploma in **Computer Science & Technology** (APCRP ’26) into a B.Tech in **Ceramic Technology** (GCECT ’29) to bridge software systems with physical-layer hardware reliability (**BITS & ATOMS**).
+- 🔭 Currently building **Bhorosha** — an AI-powered multilingual cyber-safety and complaint-assistance platform.
+- 🌱 Exploring **ROS2 Middleware, Formal Methods, Discrete Mathematics, Functional Ceramics, and Sensor Reliability**.
+- 💬 Ask me about **Cybersecurity, ROS2, Digital Forensics, Python, FastAPI, React & Machine Learning**.
+
+</div>
+
+<br>
+
+<p align="center">
+  <a href="https://parthib2006.github.io/parthib2006/"><img src="https://img.shields.io/badge/🌐_Portfolio-0969DA?style=for-the-badge&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/parthib-ghosh-758301259/"><img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:parthibghosh6@gmail.com"><img src="https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://orcid.org/0009-0006-2789-6857"><img src="https://img.shields.io/badge/🆔_ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/></a>
 </p>
 
 ---
 
-# 👨‍💻 About Me
+## 🔬 Research Intersections (BITS & ATOMS)
 
-- 🔭 Currently building **Bhorosha** — an AI-powered Rural Cyber Safety Platform
-- 🌱 Learning **ROS2, AI Agents, Formal Methods, Discrete Mathematics & Secure Robotics**
-- 💬 Ask me about **Cybersecurity, ROS2, Digital Forensics, FastAPI, Python, React & Machine Learning**
-- 🌐 Portfolio: **https://parthib2006.github.io/parthib2006/**
-- 💼 LinkedIn: **https://www.linkedin.com/in/parthib-ghosh-758301259/**
-- 📧 Email: **parthibghosh6@gmail.com**
-- ⚡ I enjoy transforming research ideas into practical security prototypes.
+| 💻 **BITS (Software & Intelligence)** | ⚛️ **ATOMS (Materials & Hardware Reliability)** |
+| :--- | :--- |
+| • Network Intrusion Detection Systems (NIDS)<br>• Digital Forensics & Incident Response (DFIR)<br>• Secure ROS2 Robotics & Middleware<br>• Multi-Agent AI Workflows | • Functional Ceramic & Sensor Materials<br>• Materials Reliability & Degradation Analysis<br>• Hardware-Software Interaction in CPS<br>• Stabilized Computational Modeling |
 
 ---
 
-# 🔬 Research Interests
+## 🚀 Featured Projects & Preprints
 
-- Cyber-Physical Systems Security
-- Secure Robotics & ROS2
-- Digital Forensics
-- AI-driven Cyber Defense
-- Intrusion Detection Systems
-- Adversarial Machine Learning
-- Multi-Agent Systems
+<div align="center">
 
----
+| Project / Work | Tech Stack & Description | Links |
+| :--- | :--- | :--- |
+| 🛡️ **Bhorosha** | Multilingual cyber-safety platform analyzing incident descriptions. | Python, FastAPI, NLP |
+| 🤖 **RoboIDS** | Dual-layer NIDS for ROS2 environments (*F1: 0.973, ROC-AUC: 0.998*). | ROS2, Python, Scikit-Learn |
+| 🔍 **CipherAI** | Multi-agent AI-assisted forensic analysis framework for IOC extraction. | Python, PyShark, ReportLab |
+| 📄 **Zenodo Preprints** | Independent research on the *Adaptive Balancing Scaling Model (ABSM)*. | [View Zenodo Publications](https://zenodo.org) |
 
-## 🔬 Featured Projects
-
-🛡️ **Bhorosha**
-AI-powered Rural Cyber Safety Platform
-
-🤖 **RoboIDS**
-ROS2 Intrusion Detection Framework
-
-🔍 **CipherAI**
-AI-assisted Digital Forensics
-
-🚁 **XROS Labs**
-Open Research in Secure Robotics
+</div>
 
 ---
 
-# 🌐 Connect With Me
+## 🛠 Languages & Tools
 
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,ts,react,fastapi,flask,html,css,git,linux,tensorflow,mysql,mongodb" alt="Skills"/>
+</p>
 
-<a href="https://www.linkedin.com/in/parthib-ghosh-758301259/">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
-</a>
-
-<a href="https://www.kaggle.com/parthibghosh2006">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" width="40"/>
-</a>
-
+<p align="center">
+  <img src="https://cdn.simpleicons.org/ros/22314E" width="45" title="ROS2"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45" title="Pandas"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45" title="Scikit-Learn"/>
 </p>
 
 ---
 
-# 🛠 Languages & Tools
+## 📊 GitHub Analytics & Contributions
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,c,cpp,js,ts,react,fastapi,flask,html,css,bootstrap,mongodb,mysql,sqlite,git,linux,tensorflow"/>
-
+  <img src="https://streak-stats.demolab.com?user=parthib2006&theme=tokyonight&hide_border=true&date_format=j%20M%20[y]" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-
-<img src="https://cdn.simpleicons.org/ros/22314E" width="48" title="ROS2"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="48" title="Pandas"/>
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" title="Scikit-Learn"/>
-
-</p>
-
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=parthib2006&theme=transparent"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=parthib2006&theme=react-dark&hide_border=true&radius=8" alt="Activity Graph"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=parthib2006&theme=github-compact&hide_border=true"/>
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Cybersecurity-00599C?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Open%20Source-181717?style=for-the-badge&logo=github"/>
-
+  <img src="https://img.shields.io/badge/Cybersecurity-00599C?style=for-the-badge&logo=letsencrypt&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Materials%20Science-7A0016?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Open%20Source-181717?style=for-the-badge&logo=github"/>
 </p>
