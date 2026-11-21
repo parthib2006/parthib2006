@@ -6,8 +6,6 @@
 
 <div align="center">
 
-<img src="parthib4.jpg" alt="Parthib Ghosh" width="160" style="border-radius: 50%; border: 2px solid #2F81F7;"/>
-
 # 👋 Hi, I'm Parthib Ghosh
 
 ### 🔬 Security Researcher | 🛡️ Cyber-Physical Systems & Forensics | ⚛️ Materials-Aware Reliability
